@@ -1,0 +1,8 @@
+{
+	"module":"Ascii",
+	"about":"Monkey2 Ascii Chars Enumeration",
+	"author":"Danilo Krahn",
+	"version":"1.0.0",
+	"support":"none",
+	"depends":["monkey"]
+}

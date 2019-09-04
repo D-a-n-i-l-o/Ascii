@@ -1,0 +1,10 @@
+.mx2/
+*.buildv*/
+*.products/
+*.app
+*.bak
+*.DS_*
+*.lnk
+desktop.ini
+.DS_Store
+Thumbs.db
